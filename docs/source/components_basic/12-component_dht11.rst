@@ -18,7 +18,7 @@
 ================================================
 
 .. image:: img/12_dht11_module.png
-    :width: 400
+    :width: 300
     :align: center
 
 概要
@@ -51,13 +51,29 @@
 
 **回路の組み立て**
 
-.. image:: img/12_dht11_module_circuit.png
-    :width: 400
-    :align: center
+.. note:: 
+   キットには異なるバージョンのDHT11モジュールが含まれている場合があります。お手持ちのモジュールに応じた配線方法を確認してください。
 
-.. raw:: html
-    
-    <br/><br/>   
+.. csv-table:: 
+   :header: "モジュール", "図"
+   :widths: 100, 250
+
+   |dht11_module|, |dht11_module_circuit|
+   |dht11_module_withLED|, |dht11_module_withLED_circuit|
+
+
+.. |dht11_module| image:: img/12_dht11_module.png 
+   :width: 100px
+
+.. |dht11_module_circuit| image:: img/12_dht11_module_circuit.png
+   :width: 360px
+
+.. |dht11_module_withLED| image:: img/12_dht11_module_withLED.png
+   :width: 150px
+
+.. |dht11_module_withLED_circuit| image:: img/12_dht11_module_withLED_circuit.png
+   :width: 360px  
+
 
 コード
 ^^^^^^^^^^^^^^^^^^^^

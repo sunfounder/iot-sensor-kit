@@ -32,15 +32,34 @@ Androidアプリは、 |link_appinventor| という無料のWebベースプラ�
 1. 回路の作成
 -----------------------------
 
-.. image:: img/10-Wiring_Bluetooth_environmental_monitor.png
-    :width: 75%
+.. note:: 
+   キットには異なるバージョンのDHT11モジュールが含まれている場合があります。お手持ちのモジュールに応じた配線方法を確認してください。
+
+.. csv-table:: 
+   :header: "module", "diagram"
+   :widths: 100, 250
+
+   |dht11_module|, |dht11_module_circuit|
+   |dht11_module_withLED|, |dht11_module_withLED_circuit|
+
+.. |dht11_module| image:: img/10_dht11_module.png 
+   :width: 100px
+
+.. |dht11_module_circuit| image:: img/10-Wiring_Bluetooth_environmental_monitor.png
+   :width: 360px
+
+.. |dht11_module_withLED| image:: img/10_dht11_module_withLED.png
+   :width: 150px
+
+.. |dht11_module_withLED_circuit| image:: img/10-Wiring_Bluetooth_environmental_monitor_new.png
+   :width: 360px
 
 * :ref:`cpn_uno`
 * :ref:`cpn_jdy31`
 * :ref:`cpn_dht11`
 
 
-2. Androidアプリの作成
+1. Androidアプリの作成
 -----------------------------
 
 Androidアプリは、 |link_appinventor| という無料のWebアプリケーションを使用して開発されます。MIT App Inventorは、直感的なドラッグアンドドロップ機能で簡単なアプリケーションを作成できるため、Android開発の優れたスタート地点となります。
