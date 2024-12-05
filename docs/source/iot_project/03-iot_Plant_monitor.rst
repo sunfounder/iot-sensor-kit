@@ -31,12 +31,16 @@ Dieses Projekt realisiert ein Demonstrations-System zur Pflanzenüberwachung, da
 
 .. note::
 
-    Das ESP8266-Modul benötigt einen hohen Stromfluss, um stabil zu funktionieren. Stellen Sie daher sicher, dass die 9V-Batterie angeschlossen ist.
+   Das ESP8266-Modul benötigt einen hohen Stromfluss, um stabil zu funktionieren. Stellen Sie daher sicher, dass die 9V-Batterie angeschlossen ist.
+
+   **Das Kit kann verschiedene Versionen des DHT11-Moduls enthalten. Bitte bestätigen Sie die Verkabelungsmethode entsprechend dem Modul, das Sie haben.**
 
 
 .. image:: img/03-Wiring_Plant_monitor.png
     :width: 100%
 
+.. image:: img/03-Wiring_Plant_monitor_new.png
+    :width: 100%
 
 * :ref:`cpn_uno`
 * :ref:`cpn_esp8266`

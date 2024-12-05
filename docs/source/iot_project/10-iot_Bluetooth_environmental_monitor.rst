@@ -31,8 +31,27 @@ Die Android-Anwendung wird mit einer kostenlosen Webplattform namens |link_appin
 1. Den Schaltkreis aufbauen
 -----------------------------
 
-.. image:: img/10-Wiring_Bluetooth_environmental_monitor.png
-    :width: 75%
+.. note:: 
+   Das Kit kann verschiedene Versionen des DHT11-Moduls enthalten. Bitte bestätigen Sie die Verkabelungsmethode entsprechend dem Modul, das Sie haben.
+
+.. csv-table:: 
+   :header: "Modul", "Diagramm"
+   :widths: 100, 250
+   
+   |dht11_module|, |dht11_module_circuit|
+   |dht11_module_withLED|, |dht11_module_withLED_circuit|
+
+.. |dht11_module| image:: img/10_dht11_module.png 
+   :width: 100px
+
+.. |dht11_module_circuit| image:: img/10-Wiring_Bluetooth_environmental_monitor.png
+   :width: 360px
+
+.. |dht11_module_withLED| image:: img/10_dht11_module_withLED.png
+   :width: 150px
+
+.. |dht11_module_withLED_circuit| image:: img/10-Wiring_Bluetooth_environmental_monitor_new.png
+   :width: 360px
 
 * :ref:`cpn_uno`
 * :ref:`cpn_jdy31`

@@ -18,7 +18,7 @@ Temperatur- und Feuchtigkeitssensor-Modul (DHT11)
 ==================================================
 
 .. image:: img/12_dht11_module.png
-    :width: 400
+    :width: 300
     :align: center
 
 Einführung
@@ -51,13 +51,27 @@ Anwendungsbeispiele
 
 **Schaltungsaufbau**
 
-.. image:: img/12_dht11_module_circuit.png
-    :width: 400
-    :align: center
+.. note:: 
+   Das Kit kann verschiedene Versionen des DHT11-Moduls enthalten. Bitte bestätigen Sie die Verkabelungsmethode entsprechend dem Modul, das Sie haben.
 
-.. raw:: html
-    
-    <br/><br/>   
+.. csv-table:: 
+   :header: "Modul", "Diagramm"
+   :widths: 100, 250
+
+   |dht11_module|, |dht11_module_circuit|
+   |dht11_module_withLED|, |dht11_module_withLED_circuit|
+
+.. |dht11_module| image:: img/12_dht11_module.png 
+   :width: 100px
+
+.. |dht11_module_circuit| image:: img/12_dht11_module_circuit.png
+   :width: 360px
+
+.. |dht11_module_withLED| image:: img/12_dht11_module_withLED.png
+   :width: 150px
+
+.. |dht11_module_withLED_circuit| image:: img/12_dht11_module_withLED_circuit.png
+   :width: 360px
 
 Code
 ^^^^^^^^^^^^^^^^^^^^
