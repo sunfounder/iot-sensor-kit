@@ -18,7 +18,7 @@ Temperature and Humidity Sensor Module (DHT11)
 ================================================
 
 .. image:: img/12_dht11_module.png
-    :width: 400
+    :width: 300
     :align: center
 
 .. raw:: html
@@ -66,13 +66,35 @@ Usage
 
 **Circuit Assembly**
 
-.. image:: img/12_dht11_module_circuit.png
-    :width: 400
-    :align: center
+.. note:: 
+   The kit may contain different versions of the DHT11 module. Please confirm the wiring method according to the module you have.
 
-.. raw:: html
+.. csv-table:: 
+   :header: "module", "diagram"
+   :widths: 100, 250
+
+   |dht11_module|, |dht11_module_circuit|
+   |dht11_module_withLED|, |dht11_module_withLED_circuit|
+
+
+.. |dht11_module| image:: img/12_dht11_module.png 
+   :width: 100px
+
+.. |dht11_module_circuit| image:: img/12_dht11_module_circuit.png
+   :width: 360px
+
+.. |dht11_module_withLED| image:: img/12_dht11_module_withLED.png
+   :width: 150px
+
+.. |dht11_module_withLED_circuit| image:: img/12_dht11_module_withLED_circuit.png
+   :width: 360px
+
+
+
+.. .. raw:: html
     
-    <br/><br/>   
+..     <br/><br/>   
+
 
 Code
 ^^^^^^^^^^^^^^^^^^^^

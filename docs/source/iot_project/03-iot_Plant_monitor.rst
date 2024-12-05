@@ -32,10 +32,15 @@ This project creates a plant monitoring demo system that detects the current tem
 
 .. note::
 
-    The ESP8266 module requires a high current to provide a stable operating environment, so make sure the 9V battery is plugged in.
+   The ESP8266 module requires a high current to provide a stable operating environment, so make sure the 9V battery is plugged in.
+
+   **The kit may contain different versions of the DHT11 module. Please confirm the wiring method according to the module you have.**
 
 
 .. image:: img/03-Wiring_Plant_monitor.png
+    :width: 100%
+
+.. image:: img/03-Wiring_Plant_monitor_new.png
     :width: 100%
 
 

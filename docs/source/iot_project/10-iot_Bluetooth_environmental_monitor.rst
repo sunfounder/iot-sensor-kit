@@ -34,8 +34,28 @@ The Android application will be constructed utilizing a complimentary web-based 
 1. Build the Circuit
 -----------------------------
 
-.. image:: img/10-Wiring_Bluetooth_environmental_monitor.png
-    :width: 75%
+.. note:: 
+   The kit may contain different versions of the DHT11 module. Please confirm the wiring method according to the module you have.
+
+.. csv-table:: 
+   :header: "module", "diagram"
+   :widths: 100, 250
+
+   |dht11_module|, |dht11_module_circuit|
+   |dht11_module_withLED|, |dht11_module_withLED_circuit|
+
+
+.. |dht11_module| image:: img/10_dht11_module.png 
+   :width: 100px
+
+.. |dht11_module_circuit| image:: img/10-Wiring_Bluetooth_environmental_monitor.png
+   :width: 360px
+
+.. |dht11_module_withLED| image:: img/10_dht11_module_withLED.png
+   :width: 150px
+
+.. |dht11_module_withLED_circuit| image:: img/10-Wiring_Bluetooth_environmental_monitor_new.png
+   :width: 360px
 
 * :ref:`cpn_uno`
 * :ref:`cpn_jdy31`
