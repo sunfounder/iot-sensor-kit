@@ -46,9 +46,18 @@ Only three pins are available for use: VCC, GND, and DATA. The communication pro
 Module Schematic Diagram
 ---------------------------
 
-.. image:: img/12_dht11_module_schematic.png
-    :width: 80%
-    :align: center
+.. csv-table:: 
+   :widths: 30, 70
+
+   |dht11_module|, |dht11_module_schematic|
+   |dht11_module_withLED|, |dht11_module_withLED_schematic|
+
+
+.. |dht11_module_schematic| image:: img/12_dht11_module_schematic.png
+   :width: 360px
+
+.. |dht11_module_withLED_schematic| image:: img/12_dht11_module_withLED_schematic.png
+   :width: 360px
 
 .. raw:: html
 
