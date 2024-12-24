@@ -144,7 +144,7 @@ rst_epilog = """
 
 .. |link_blynk_lib| raw:: html
 
-    <a href="https://github.com/blynkkk/blynk-library/releases" target="_blank">HERE</a>
+    <a href="https://github.com/blynkkk/blynk-library/releases" target="_blank">HIER</a>
 
 .. |link_r4_datasheet| raw:: html
 
@@ -169,15 +169,15 @@ rst_epilog = """
 
 .. |link_blynk_timer_intro| raw:: html
 
-    <a href="https://docs.blynk.io/en/legacy-platform/legacy-articles/keep-your-void-loop-clean" target="_blank">Why we use Blynk timer?</a> 
+    <a href="https://docs.blynk.io/en/legacy-platform/legacy-articles/keep-your-void-loop-clean" target="_blank">Warum verwenden wir den Blynk-Timer?</a> 
 
 .. |link_blynk_quickstart| raw:: html
 
-    <a href="https://docs.blynk.io/en/getting-started/what-do-i-need-to-blynk/quickstart-device-code-overview" target="_blank">Blynk Quickstart</a> 
+    <a href="https://docs.blynk.io/en/getting-started/what-do-i-need-to-blynk/quickstart-device-code-overview" target="_blank">Blynk Schnellstart</a> 
 
 .. |link_blynk_doc| raw:: html
 
-    <a href="https://docs.blynk.io/" target="_blank">Blynk Documentation</a> 
+    <a href="https://docs.blynk.io/" target="_blank">Blynk Dokumentation</a> 
 
 .. |link_blynk_syncing| raw:: html
 
@@ -193,7 +193,7 @@ rst_epilog = """
 
 .. |link_blynk_displays| raw:: html
 
-    <a href="https://docs.blynk.io/en/blynk.apps/widgets-displays" target="_blank">Blynk - Widgets Displays</a>  
+    <a href="https://docs.blynk.io/en/blynk.apps/widgets-displays" target="_blank">Blynk - Widget-Anzeigen</a>  
 
 .. |link_blynk_timer| raw:: html
 
@@ -205,7 +205,7 @@ rst_epilog = """
 
 .. |link_ifttt_welcome| raw:: html
 
-    <a href="https://ifttt.com/explore/welcome_to_ifttt" target="_blank">IFTTT - Welcome to IFTTT</a> 
+    <a href="https://ifttt.com/explore/welcome_to_ifttt" target="_blank">IFTTT - Willkommen bei IFTTT</a> 
 
 .. |link_ifttt_webhook_faq| raw:: html
 
@@ -249,7 +249,7 @@ rst_epilog = """
 
 .. |link_serial_bluetooth_terminal| raw:: html
 
-    <a href="https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal" target="_blank">Serial Bluetooth Terminal</a>  
+    <a href="https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal" target="_blank">Serielles Bluetooth-Terminal</a>  
 
 .. |link_blynk| raw:: html
 
