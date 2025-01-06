@@ -52,7 +52,7 @@ Blynkを使用した炎警報システム
     :width: 70%
     :align: center
 
-**HARDWARE** は **ESP8266**、**CONNECT TYPE** は **WiFi** に設定してください。
+**HARDWARE** は **ESP8266** 、 **CONNECT TYPE** は **WiFi** に設定してください。
 
 .. image:: img/new/01-create_template_2_shadow.png
     :width: 70%
@@ -71,7 +71,7 @@ Blynkを使用した炎警報システム
     :width: 90%
     :align: center
 
-**Virtual Pin** の名前を ``flame_sensor_value`` に設定します。**DATA TYPE** を **Integer** にし、MINとMAXは **0** と **1** に設定します。
+**Virtual Pin** の名前を ``flame_sensor_value`` に設定します。 **DATA TYPE** を **Integer** にし、MINとMAXは **0** と **1** に設定します。
 
 .. image:: img/new/01-datastream_2_shadow.png
     :width: 90%

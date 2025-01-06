@@ -135,7 +135,7 @@ IFTTTは「If This Then That」の略で、特定の条件が満たされた場�
 
 振動が検出されたときに送信されるメールの件名と内容を設定します。
 
-参考として、件名は「[ESP-01] Detected vibration!!!」、内容は「Detected vibration, please confirm the situation promptly! {{OccurredAt}}」と設定されています。メールを送信する際には、``{{OccurredAt}}`` はイベントが発生した時刻に自動的に置き換えられます。
+参考として、件名は「[ESP-01] Detected vibration!!!」、内容は「Detected vibration, please confirm the situation promptly! {{OccurredAt}}」と設定されています。メールを送信する際には、 ``{{OccurredAt}}`` はイベントが発生した時刻に自動的に置き換えられます。
 
 .. image:: img/new/04-ifttt_create_applet_9_shadow.png
     :width: 80%

@@ -15,7 +15,7 @@
 1.2 Blynkの設定
 ==================
 
-#. `BLYNK <https://blynk.io/>`_ のページに移動し、**START FREE** をクリックします。
+#. `BLYNK <https://blynk.io/>`_ のページに移動し、 **START FREE** をクリックします。
 
    .. image:: img/sp220607_142551.png
         :width: 90%

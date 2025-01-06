@@ -33,7 +33,7 @@ Bluetoothで始めよう
 2. コードをアップロード
 -----------------------------
 
-``ultimate-sensor-kit\iot_project\bluetooth\00-Bluetooth_start`` のパスの下で ``00-Bluetooth_start.ino`` ファイルを開くか、このコードを**Arduino IDE**にコピペします。
+``ultimate-sensor-kit\iot_project\bluetooth\00-Bluetooth_start`` のパスの下で ``00-Bluetooth_start.ino`` ファイルを開くか、このコードを **Arduino IDE** にコピペします。
 
 このコードは、ArduinoのSoftwareSerialライブラリを使用してソフトウェアシリアル通信を確立します。これにより、Arduinoはデジタルピン3および4（RxおよびTxとして）を介してJDY-31 Bluetoothモジュールと通信できます。双方の間のデータ転送があるかどうかを確認し、一方から他方に9600のボーレートで受信メッセージを転送します。 **このコードを使用すると、ArduinoのシリアルモニターでJDY-31 BluetoothモジュールにATコマンドを送信し、その応答を受信できます**。
 

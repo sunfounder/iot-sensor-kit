@@ -40,7 +40,7 @@ BlynkをArduino IDEで使用するには、適切なライブラリを追加す�
 
         <br/><br/>
 
-    **ステップ2:** Arduino IDEからスケッチブックの場所を探し、``libraries`` フォルダをクリックして開きます。
+    **ステップ2:** Arduino IDEからスケッチブックの場所を探し、 ``libraries`` フォルダをクリックして開きます。
 
     .. image:: img/add_lib_2.png
 
