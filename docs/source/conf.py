@@ -25,7 +25,17 @@ author = 'www.sunfounder.com'
 
 # -- sphinx_rtd_theme Theme options -----------------------------------------------------
 html_theme_options = {
-    'flyout_display': 'attached'
+    'flyout_display': 'attached',
+    'version_selector': False,
+    'language_selector': False,
+}
+
+html_context = {
+    "display_github": True, # Integrate GitHub
+    "github_user": "sunfounder", # Username
+    "github_repo": "ultimate-sensor-kit", # Repo name
+    "github_version": "docs-ja", # Version
+    "conf_py_path": "/docs/source/", # Path in the checkout to the docs root
 }
 
 # -- General configuration ---------------------------------------------------
